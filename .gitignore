@@ -11,16 +11,16 @@
 *.userprefs
 
 # Build results
-[Dd]ebug/
-[Dd]ebugPublic/
-[Rr]elease/
-[Rr]eleases/
+debug/
+debugPublic/
+release/
+releases/
 x64/
 x86/
 bld/
-[Bb]in/
-[Oo]bj/
-[Ll]og/
+bin/
+Obj/
+log/
 
 # Visual Studio 2015 cache/options directory
 .vs/
@@ -28,16 +28,16 @@ bld/
 #wwwroot/
 
 # MSTest test Results
-[Tt]est[Rr]esult*/
-[Bb]uild[Ll]og.*
+testresult*/
+buildlog.*
 
 # NUNIT
 *.VisualState.xml
 TestResult.xml
 
 # Build Results of an ATL Project
-[Dd]ebugPS/
-[Rr]eleasePS/
+debugPS/
+releasePS/
 dlldata.c
 
 # DNX
@@ -98,7 +98,7 @@ $tf/
 
 # ReSharper is a .NET coding add-in
 _ReSharper*/
-*.[Rr]e[Ss]harper
+*.resharper
 *.DotSettings.user
 
 # JustCode is a .NET coding add-in
@@ -123,7 +123,7 @@ AutoTest.Net/
 .sass-cache/
 
 # Installshield output folder
-[Ee]xpress/
+express/
 
 # DocProject is a documentation generator add-in
 DocProject/buildhelp/
